@@ -3,7 +3,51 @@
   <name>Toggle Hidden Conduit Selectability (Continued)</name>
   <author>b0unt9</author>
   <packageId>rw.mod.hiddenconduitselectability</packageId>
-  <description>Adds a button in the bottom right that lets you toggle whether hidden conduits are selectable. No more accidentally selecting hidden conduits!</description>
+  <description>
+[b]Hidden Conduit Selectability (1.6 Update)[/b]
+
+This is an updated version of the original [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3393599165]"Hidden Conduit Selectability"[/url] mod by MaskedPixel, reworked to support [b]RimWorld 1.6[/b].
+
+The original mod added a toggle button to the map overlay UI, allowing players to choose whether **Hidden Conduits** (invisible power lines) should be selectable in the game. This updated version keeps the same functionality while simplifying the implementation.
+
+[h1]Features:[/h1]
+[list]
+[*]Adds a [b]toggle button[/b] to the top map controls that allows players to make Hidden Conduits selectable or unselectable.
+[/list]
+
+[h1]Differences from the Original Mod:[/h1]
+
+[list]
+[*]Updated for RimWorld 1.6.
+[*]Replaced the [b]Harmony Transpiler patch[/b] with a [b]simpler Postfix patch[/b] using `DoMapControls`, making the code easier to read and maintain.
+[*]No changes to the core gameplay — only refactoring and version compatibility adjustments.
+[/list]
+
+[h1]Notes:[/h1]
+[list]
+[*]This is [i]not an official update[/i] by the original author.
+[*]Functionality is preserved 1:1 with the original — only the internal patching logic was improved.
+[*]Compatible with existing saves and should be safe to add or remove mid-game.
+[/list]
+
+[h1]Credits:[/h1]
+[list]
+[*]Original mod by [url=https://steamcommunity.com/profiles/76561198089998393]MaskedPixel[/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3393599165]Steam Workshop Page[/url]
+[*]1.6 update and patch simplification by [url=https://github.com/b0unt9]Bounty[/url]
+[/list]
+
+- If the original author requests this version be taken down or altered, I will comply immediately.
+
+[h1]Compatibility:[/h1]
+[list]
+[*]Compatible with RimWorld 1.5 and 1.6.
+[*][b]Do not use this mod alongside the original[/b] — conflicts will occur
+[*]Compatible with most UI and overlay mods.
+[/list]
+
+[h1]Feedback & Suggestions:[/h1]
+Leave a comment or reach me on [url=https://github.com/rw-mod/Toggle-Hidden-Conduit-Selectability]GitHub[/url]
+  </description>
   
   <supportedVersions>
     <li>1.5</li>
