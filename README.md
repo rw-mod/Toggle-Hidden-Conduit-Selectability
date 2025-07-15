@@ -30,9 +30,8 @@ The original mod added a toggle button to the map overlay UI, allowing players t
 
 ## 📜 Credits
 
-- Original mod by **[MaskedPixel](https://steamcommunity.com/profiles/76561198089998393)**  
-  [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3393599165)
-- RimWorld 1.6 update and patch simplification by **[Bounty](https://github.com/b0unt9)**
+- Original mod by **[MaskedPixel](https://steamcommunity.com/profiles/76561198089998393)** ([Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3393599165))
+- 1.6 update and patch simplification by **[Bounty](https://github.com/b0unt9)**
 
 If the original author requests removal or revision, I will comply immediately.
 
