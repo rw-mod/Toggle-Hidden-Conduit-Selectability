@@ -40,7 +40,7 @@ If the original author requests removal or revision, I will comply immediately.
 
 ## 🔧 Compatibility
 
-- RimWorld 1.5+ (include 1.6)
+- RimWorld 1.5 and 1.6
 - Should not be used alongside the original mod (conflicts will occur)
 - Compatible with most other UI and overlay mods
 
