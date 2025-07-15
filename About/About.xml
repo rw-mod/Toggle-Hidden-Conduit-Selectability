@@ -3,6 +3,7 @@
   <name>Toggle Hidden Conduit Selectability (Continued)</name>
   <author>b0unt9</author>
   <packageId>rw.mod.hiddenconduitselectability</packageId>
+  <!-- <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion> -->
   <description>
 [b]Hidden Conduit Selectability (1.6 Update)[/b]
 
@@ -45,7 +46,7 @@ The original mod added a toggle button to the map overlay UI, allowing players t
 [*]Compatible with most UI and overlay mods.
 [/list]
 
-[h1]Feedback & Suggestions:[/h1]
+[h1]Feedback OR Suggestions:[/h1]
 Leave a comment or reach me on [url=https://github.com/rw-mod/Toggle-Hidden-Conduit-Selectability]GitHub[/url]
   </description>
   
